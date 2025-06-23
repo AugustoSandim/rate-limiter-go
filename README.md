@@ -25,8 +25,8 @@ The rate limiter is configured through environment variables or a `.env` file in
 
 1.  **Clone the repository:**
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone git@github.com:AugustoSandim/rate-limiter-go.git
+    cd rate-limiter-go
     ```
 
 2.  **Create a `.env` file:**
